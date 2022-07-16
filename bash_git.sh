@@ -11,7 +11,7 @@ GITHUB_REPO_OWNER="binama"
 #read GITHUB_REPO_NAME
 
 # Название проэкта на ГитХабе
-GITHUB_REPO_NAME="proba"
+GITHUB_REPO_NAME="proba.git"
 
 git status
 git add .
