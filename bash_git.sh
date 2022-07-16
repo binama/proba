@@ -16,8 +16,8 @@ GITHUB_REPO_NAME="proba"
 git status
 git add .
 git commit -m "commit_message"
-git remote remove origin
-git remote add origin https://[GITHUB_ACCESS_TOKEN]@github.com/[GITHUB_REPO_OWNER]/[GITHUB_REPO_NAME]
+git remote remove main
+git remote add main https://[GITHUB_ACCESS_TOKEN]@github.com/[GITHUB_REPO_OWNER]/[GITHUB_REPO_NAME]
 git push
 
 
