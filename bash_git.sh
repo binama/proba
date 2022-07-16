@@ -1,5 +1,5 @@
 #!/bin/bash
-gh auth login --with-token
+#gh auth login --with-token
 
 # THE GITHUB ACCESS TOKEN, GENERATE ONE AT: https://github.com/settings/tokens
 GITHUB_ACCESS_TOKEN="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"
