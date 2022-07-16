@@ -16,7 +16,7 @@ GITHUB_REPO_NAME="proba"
 git status
 git add .
 git commit -m "test.py"
-git push https://[GITHUB_ACCESS_TOKEN]@github.com/[GITHUB_REPO_OWNER]/[GITHUB_REPO_NAME].git
+git push https://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@github.com/binama/proba.git
 
 
 
